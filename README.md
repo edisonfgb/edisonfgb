@@ -72,5 +72,5 @@ CNN trained with TensorFlow/Keras on a balanced dataset of thousands of images t
 
 ## GitHub stats
 
-![edisonfgb's GitHub stats](https://edisonfgb.vercel.app/api?username=edisonfgb&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://edisonfgb.vercel.app/api/top-langs/?username=edisonfgb&layout=compact&hide_border=true)
+![edisonfgb's GitHub stats](https://github-readme-stats-three-sage-94.vercel.app/api?username=edisonfgb&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats-three-sage-94.vercel.app/api/top-langs/?username=edisonfgb&layout=compact&hide_border=true)
