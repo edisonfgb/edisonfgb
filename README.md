@@ -26,13 +26,13 @@ Fullstack developer with experience building scalable web applications using cle
 ## Featured projects
 
 ### [Channel Scheduling System](https://github.com/Channel-Scheduling-System/Channel_Scheduling_System)
-Barbershop appointment scheduling system built with Angular. Layered architecture and Screaming Architecture, route guards for role-based access control (RBAC), lazy loading and admin panel with differentiated views per user type. Deployed at [agenda-channel.online](https://agenda-channel.online).
+Barbershop appointment scheduling system built with Angular. Layered architecture and Screaming Architecture, route guards for role-based access control (RBAC), lazy loading and admin panel with differentiated views per user type. Deployed at [channel-scheduling-system.onrender.com](https://channel-scheduling-system.onrender.com).
 
 `TypeScript` `Angular` `RBAC` `Screaming Architecture`
 
 ---
 
-### [Access Control System](https://github.com/EdisonGutierrez/Access_Control_Frontend)
+### [Access Control System](https://github.com/edisonfgb/Access_Control_Frontend)
 Parking access management system. Angular frontend + Spring Boot microservice with hexagonal architecture, DDD, Apache Kafka (EDA/SAGA), refresh token rotation and authentication middlewares.
 
 `Java` `Angular` `Kafka` `Spring Boot` `Hexagonal` `DDD`
@@ -46,14 +46,14 @@ Progressive Web App for inventory management. Service worker with Workbox for of
 
 ---
 
-### [Order Management System](https://github.com/EdisonGutierrez/OrderManagerFrontend)
+### [Order Management System](https://github.com/edisonfgb/OrderManagerFrontend)
 Microservices architecture with API Gateway, Django authentication microservice, Angular frontend and role-based access control.
 
 `Python` `Django` `Angular` `API Gateway`
 
 ---
 
-### [Flower Disease Classification](https://github.com/EdisonGutierrez/Classification_of_Flower_Diseases)
+### [Flower Disease Classification](https://github.com/edisonfgb/Classification_of_Flower_Diseases)
 CNN trained with TensorFlow/Keras on a balanced dataset of thousands of images to classify flower diseases. Multiclass model identifying crop type, health status and specific disease. Inference API built with Flask.
 
 `Python` `TensorFlow` `Keras` `Flask` `CNN`
@@ -63,7 +63,7 @@ CNN trained with TensorFlow/Keras on a balanced dataset of thousands of images t
 ## Contact
 
 - edison.gutierrez01@uptc.edu.co
-- [linkedin.com/in/edison-ferney-gutierrez-buitrago-22674a263](https://www.linkedin.com/in/edison-ferney-gutierrez-buitrago-22674a263)
+- [linkedin.com/in/edisonfgb](https://www.linkedin.com/in/edisonfgb)
 - Colombia
 - UPTC — Systems & Computer Engineering, 10th semester
 - English B2
@@ -72,5 +72,5 @@ CNN trained with TensorFlow/Keras on a balanced dataset of thousands of images t
 
 ## GitHub stats
 
-![Daryc845's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daryc845&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daryc845&layout=compact&hide_border=true)
+![edisonfgb's GitHub stats](https://github-readme-stats.vercel.app/api?username=edisonfgb&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edisonfgb&layout=compact&hide_border=true)
